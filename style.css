@@ -1,0 +1,34 @@
+body {
+    background: black;
+}
+
+.perfil {
+    width: 140px;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    border-radius: 19px;
+    margin-top: 30px;
+}
+
+.name {
+    color: white;
+    font-family: sans-serif;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    font-size: 29px;
+}
+
+.bio {
+    color: white;
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(44, 43, 43);
+    border-radius: 20px;
+    width: 250px;
+    padding: 10px;
+    text-align: justify;
+    margin: 0 auto;
+}
